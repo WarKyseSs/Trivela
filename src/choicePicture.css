@@ -1,0 +1,22 @@
+.radio-button .radio {
+    -fx-background-color: none;
+}
+.radio-button .radio:selected {
+    -fx-background-color: none;
+}
+.radio-button .dot {
+    -fx-background-color: none;
+}
+.Card-radio-button .radio {
+    -fx-background-color: none;
+}
+.Card-radio-button .radio:selected {
+    -fx-background-color: none;
+}
+.Card-radio-button .dot {
+    -fx-background-color: none;
+}
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-opacity: 0;
+    -fx-effect: null;
+}
